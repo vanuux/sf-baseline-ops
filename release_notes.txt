@@ -1,2 +1,2 @@
-Version = 2.0
 Update: Added new logo
+Patch: Fixed login bug
